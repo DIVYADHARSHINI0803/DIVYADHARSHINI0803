@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DIVYADHARSHINI0803
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...sql,manual testing,core java
+- 🌱 I’m currently learning ...Html,Css,Javascript,React,Sql and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...divyathangam08@gmail.com
 
