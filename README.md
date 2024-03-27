@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DIVYADHARSHINI0803
+- 👋 Hi, I’m @DIVYADHARSHINI
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...Html,Css,Javascript,React,Sql and Java.
 - 💞️ I’m looking to collaborate on ...
