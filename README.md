@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DIVYADHARSHINI
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...Html,Css,Javascript,Vue,Quasar,Sql and Java.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m Currently Working in Aspyrus Tech LLP as a Junior Software Engineer.
 - 📫 How to reach me ...divyathangam08@gmail.com
 
 <!---
